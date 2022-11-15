@@ -9,5 +9,6 @@ To make it easier, most of the implementation will be done using Kaggle Ipython 
 ## Implementations
 
 ### Generative Adversarial Networks
+* [cgan](implementations/cgan)
 * [dcgan](implementations/dcgan)
 * [gan](implementations/gan)
