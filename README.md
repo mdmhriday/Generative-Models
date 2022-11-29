@@ -12,3 +12,4 @@ To make it easier, most of the implementation will be done using Kaggle Ipython 
 * [cgan](implementations/cgan)
 * [dcgan](implementations/dcgan)
 * [gan](implementations/gan)
+* [pix2pix](implementations/pix2pix)
